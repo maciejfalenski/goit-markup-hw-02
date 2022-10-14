@@ -70,6 +70,8 @@ h1 {
   line-height: 1.87;
   cursor: pointer;
   font-family: "Roboto", sans-serif;
+  border: 0px;
+  border-radius: 4px;
 }
 
 h3 {
@@ -152,12 +154,16 @@ address {
   text-align: center;
   cursor: pointer;
   font-family: "Roboto", sans-serif;
+  border-radius: 4px;
+  border: 0px;
 }
 
 .button-text:hover,
 .button-text:focus {
   background-color: var(--hover-color);
   color: #ffffff;
+  border: 0px;
+  border-radius: ;
 }
 
 .project-name {
