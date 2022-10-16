@@ -163,7 +163,7 @@ address {
   background-color: var(--hover-color);
   color: #ffffff;
   border: 0px;
-  border-radius: ;
+  border-radius: 4px;
 }
 
 .project-name {
